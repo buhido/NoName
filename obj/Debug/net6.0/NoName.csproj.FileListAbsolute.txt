@@ -1,0 +1,15 @@
+C:\УЧЕБА\Домашки\Итоги блока_Выбор специализации_IT_специалист\NoName\obj\Debug\net6.0\NoName.csproj.AssemblyReference.cache
+C:\УЧЕБА\Домашки\Итоги блока_Выбор специализации_IT_специалист\NoName\obj\Debug\net6.0\NoName.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\Домашки\Итоги блока_Выбор специализации_IT_специалист\NoName\obj\Debug\net6.0\NoName.AssemblyInfoInputs.cache
+C:\УЧЕБА\Домашки\Итоги блока_Выбор специализации_IT_специалист\NoName\obj\Debug\net6.0\NoName.AssemblyInfo.cs
+C:\УЧЕБА\Домашки\Итоги блока_Выбор специализации_IT_специалист\NoName\obj\Debug\net6.0\NoName.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\Домашки\Итоги блока_Выбор специализации_IT_специалист\NoName\bin\Debug\net6.0\NoName.exe
+C:\УЧЕБА\Домашки\Итоги блока_Выбор специализации_IT_специалист\NoName\bin\Debug\net6.0\NoName.deps.json
+C:\УЧЕБА\Домашки\Итоги блока_Выбор специализации_IT_специалист\NoName\bin\Debug\net6.0\NoName.runtimeconfig.json
+C:\УЧЕБА\Домашки\Итоги блока_Выбор специализации_IT_специалист\NoName\bin\Debug\net6.0\NoName.dll
+C:\УЧЕБА\Домашки\Итоги блока_Выбор специализации_IT_специалист\NoName\bin\Debug\net6.0\NoName.pdb
+C:\УЧЕБА\Домашки\Итоги блока_Выбор специализации_IT_специалист\NoName\obj\Debug\net6.0\NoName.dll
+C:\УЧЕБА\Домашки\Итоги блока_Выбор специализации_IT_специалист\NoName\obj\Debug\net6.0\refint\NoName.dll
+C:\УЧЕБА\Домашки\Итоги блока_Выбор специализации_IT_специалист\NoName\obj\Debug\net6.0\NoName.pdb
+C:\УЧЕБА\Домашки\Итоги блока_Выбор специализации_IT_специалист\NoName\obj\Debug\net6.0\NoName.genruntimeconfig.cache
+C:\УЧЕБА\Домашки\Итоги блока_Выбор специализации_IT_специалист\NoName\obj\Debug\net6.0\ref\NoName.dll
