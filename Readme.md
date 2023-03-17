@@ -36,7 +36,7 @@
 + string[] newArrayStrings = new string[numbers]; 
 + NewArray(arr, newArrayStrings, length);
 
-*Задаем функцию формирования нового массива строк, с лементами меньше длины, используя метод void (принимает, но не выводит):*
+*Задаем функцию формирования нового массива строк, с элементами меньше длины, используя метод void (принимает, но не выводит):*
 + void NewArray(string[] oldArray, string[] newArray, int lengthLimit)
 + {
 +     int temp = 0;
@@ -50,7 +50,7 @@
 +    }
 + }
 
-*Функция вывода на печать в терминалнового массива:*
+*Функция вывода на печать в терминал нового массива:*
 + string PrintArray(string[] arr)
 + {
 +    string result;
